@@ -1,9 +1,6 @@
 # CHVIM
-[CHVIM is a state in which one can break free of all known laws and corruptions of Oblivion. It allows for the user to return to a state before the mingling of Anu and Padomay and manipulate the Aurbis how they please. CHIM is often associated with Love, which seemingly connects it to the concept of God actually being "Love."](https://elderscrolls.fandom.com/wiki/CHIM)
-
-Also,
-
 CHVIM is a vim profile switcher inspired by [CHEMACS](https://github.com/plexus/chemacs)
+With enough luck, your favorite vim config is directory-agnostic and can be used in conjunction with CHVIM
 ## Installation
 1. Put your ~/.vimrc, ~/.vim, or ~/.config/nvim somewhere safe.
 2. Add the path to your vimrc or init.vim in a file called `~/.vim-profiles`
