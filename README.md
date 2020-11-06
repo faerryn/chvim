@@ -1,5 +1,6 @@
 # CHVIM
-CHVIM is a vim profile switcher inspired by [CHEMACS](https://github.com/plexus/chemacs)
+CHVIM is a vim profile switcher inspired by [CHEMACS](https://github.com/plexus/chemacs).
+
 With enough luck, your favorite vim config is directory-agnostic and can be used in conjunction with CHVIM
 ## Installation
 1. Put your ~/.vimrc, ~/.vim, or ~/.config/nvim somewhere safe.
